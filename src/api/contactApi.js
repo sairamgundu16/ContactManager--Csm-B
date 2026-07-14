@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-    baseURL: "https://contactmanagerbackend-jism.onrender.com"
+    baseURL: "https://contactmanager-csmb-2.onrender.com"
 });
 
 export default API;
